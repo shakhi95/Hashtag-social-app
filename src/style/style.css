@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Yekan";
+  src: url("../assets/fonts/Yekan.eot");
+  /* IE9 Compat Modes */
+  src: url("../assets/fonts/Yekan.eot") format("embedded-opentype"),
+    url("../assets/fonts/Yekan.woff2") format("woff2"),
+    url("../assets/fonts/Yekan.woff") format("woff"),
+    url("../assets/fonts/Yekan.ttf") format("truetype");
+  /* Safari, Android, iOS */
+}
+
+* {
+  font-family: "Yekan";
+}
+
+body {
+  overflow-x: hidden;
+}
+
+*:focus,
+*:active {
+  box-shadow: none !important;
+}
+
+/* sidebar styling */
+@media (max-width: 767px) {
+  @keyframes expandeY {
+    from {
+      transform: scaleY(0);
+    }
+    to {
+      transform: scaleY(1);
+    }
+  }
+
+  .sidebar {
+    transform-origin: top;
+    display: none;
+    animation: expandeY 0.5s;
+  }
+  .sidebar.show {
+    display: block;
+    margin-bottom: 1rem;
+  }
+}
+
+.icon-delete:hover {
+  color: rgb(185, 13, 13) !important;
+}
+
+.like-btn:hover {
+  transform: scale(1.1);
+}
