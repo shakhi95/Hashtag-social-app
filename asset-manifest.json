@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Hashtag-social-app/static/css/main.c8604a36.chunk.css",
+    "main.js": "/Hashtag-social-app/static/js/main.b2802b5f.chunk.js",
+    "main.js.map": "/Hashtag-social-app/static/js/main.b2802b5f.chunk.js.map",
+    "runtime-main.js": "/Hashtag-social-app/static/js/runtime-main.309146fa.js",
+    "runtime-main.js.map": "/Hashtag-social-app/static/js/runtime-main.309146fa.js.map",
+    "static/js/2.812b1140.chunk.js": "/Hashtag-social-app/static/js/2.812b1140.chunk.js",
+    "static/js/2.812b1140.chunk.js.map": "/Hashtag-social-app/static/js/2.812b1140.chunk.js.map",
+    "index.html": "/Hashtag-social-app/index.html",
+    "static/css/main.c8604a36.chunk.css.map": "/Hashtag-social-app/static/css/main.c8604a36.chunk.css.map",
+    "static/js/2.812b1140.chunk.js.LICENSE.txt": "/Hashtag-social-app/static/js/2.812b1140.chunk.js.LICENSE.txt",
+    "static/media/404.d9882fa3.png": "/Hashtag-social-app/static/media/404.d9882fa3.png",
+    "static/media/style.css": "/Hashtag-social-app/static/media/Yekan.f717454d.ttf",
+    "static/media/cover.f6b83a69.png": "/Hashtag-social-app/static/media/cover.f6b83a69.png",
+    "static/media/login.877c662f.jpg": "/Hashtag-social-app/static/media/login.877c662f.jpg",
+    "static/media/logo.6b55a0c9.png": "/Hashtag-social-app/static/media/logo.6b55a0c9.png",
+    "static/media/man0.2db6cf18.png": "/Hashtag-social-app/static/media/man0.2db6cf18.png",
+    "static/media/man1.3104c56d.png": "/Hashtag-social-app/static/media/man1.3104c56d.png",
+    "static/media/man2.58acc3e7.png": "/Hashtag-social-app/static/media/man2.58acc3e7.png",
+    "static/media/man3.2866a25d.png": "/Hashtag-social-app/static/media/man3.2866a25d.png",
+    "static/media/man4.8e6206a6.png": "/Hashtag-social-app/static/media/man4.8e6206a6.png",
+    "static/media/noMails.1cfc85ed.png": "/Hashtag-social-app/static/media/noMails.1cfc85ed.png",
+    "static/media/noUsers.2fe8fc66.png": "/Hashtag-social-app/static/media/noUsers.2fe8fc66.png",
+    "static/media/outFirst.0d3cb9b9.png": "/Hashtag-social-app/static/media/outFirst.0d3cb9b9.png",
+    "static/media/signup.50d76714.jpg": "/Hashtag-social-app/static/media/signup.50d76714.jpg",
+    "static/media/unknown.ebcb37f1.png": "/Hashtag-social-app/static/media/unknown.ebcb37f1.png",
+    "static/media/woman0.7564af28.png": "/Hashtag-social-app/static/media/woman0.7564af28.png",
+    "static/media/woman1.c72e76f6.png": "/Hashtag-social-app/static/media/woman1.c72e76f6.png",
+    "static/media/woman2.81c35ed4.png": "/Hashtag-social-app/static/media/woman2.81c35ed4.png",
+    "static/media/woman3.d5eb4a04.png": "/Hashtag-social-app/static/media/woman3.d5eb4a04.png",
+    "static/media/woman4.7dd5417c.png": "/Hashtag-social-app/static/media/woman4.7dd5417c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.309146fa.js",
+    "static/js/2.812b1140.chunk.js",
+    "static/css/main.c8604a36.chunk.css",
+    "static/js/main.b2802b5f.chunk.js"
+  ]
+}
