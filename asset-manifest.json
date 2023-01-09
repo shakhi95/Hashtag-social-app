@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Hashtag-social-app/static/css/main.8af1e2b7.css",
-    "main.js": "/Hashtag-social-app/static/js/main.1b6831ba.js",
+    "main.css": "/Hashtag-social-app/static/css/main.c22cd922.css",
+    "main.js": "/Hashtag-social-app/static/js/main.52839c40.js",
     "static/media/login.jpg": "/Hashtag-social-app/static/media/login.877c662f650ab25c1463.jpg",
     "static/media/signup.jpg": "/Hashtag-social-app/static/media/signup.50d76714ea415a839e5d.jpg",
     "static/media/cover.png": "/Hashtag-social-app/static/media/cover.f6b83a697ae75922111f.png",
@@ -26,11 +26,11 @@
     "static/media/logo.png": "/Hashtag-social-app/static/media/logo.6b55a0c9049d8bef7491.png",
     "static/media/Yekan.woff2": "/Hashtag-social-app/static/media/Yekan.700a7e4e37235110a288.woff2",
     "index.html": "/Hashtag-social-app/index.html",
-    "main.8af1e2b7.css.map": "/Hashtag-social-app/static/css/main.8af1e2b7.css.map",
-    "main.1b6831ba.js.map": "/Hashtag-social-app/static/js/main.1b6831ba.js.map"
+    "main.c22cd922.css.map": "/Hashtag-social-app/static/css/main.c22cd922.css.map",
+    "main.52839c40.js.map": "/Hashtag-social-app/static/js/main.52839c40.js.map"
   },
   "entrypoints": [
-    "static/css/main.8af1e2b7.css",
-    "static/js/main.1b6831ba.js"
+    "static/css/main.c22cd922.css",
+    "static/js/main.52839c40.js"
   ]
 }
