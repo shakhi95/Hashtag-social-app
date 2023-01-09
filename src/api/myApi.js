@@ -4,6 +4,10 @@ import axios from "axios";
 //   baseURL: "https://rest-api-shakhi.herokuapp.com",
 // });
 
+// export default axios.create({
+//   baseURL: "https://hashtag-api.iran.liara.run",
+// });
+
 export default axios.create({
-  baseURL: "https://hashtag-api.iran.liara.run",
+  baseURL: "https://hashtagapi.shakhi.ir",
 });
